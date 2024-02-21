@@ -43,5 +43,15 @@ li {
 }
 
 .text-main {
+    font-size: 18px;
+    color: #E5E7EB;
+}
 
+button {
+    background-color: #3882F6;
+    padding: 8px 16px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
 }
