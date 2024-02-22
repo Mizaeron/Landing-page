@@ -38,7 +38,7 @@ li {
 
 .heading-main {
     font-size: 48px;
-    font-weight: bolder;
+    font-weight: 800;
     color: #F9FAF8;
     display: flex;
     flex-wrap: wrap;
@@ -48,6 +48,8 @@ li {
     font-size: 18px;
     color: #E5E7EB;
     display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
 }
 
 button {
@@ -66,11 +68,16 @@ button {
 }
 
 .left-main {
-    max-width: 500px;
+    max-width: 450px;
+    margin-left: 35px;
 }
 
 .right-main {
     padding: 80px;
     background-color: grey;
     color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
 }
