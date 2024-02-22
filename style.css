@@ -24,6 +24,7 @@ body {
 .header {
     display: flex;
     justify-content: space-around;
+    padding: 8px 0px;
 }
 
 ul {
@@ -75,7 +76,7 @@ button {
 }
 
 .right-main {
-    padding: 80px;
+    padding: 110px;
     background-color: grey;
     color: #E5E7EB;
     display: flex;
