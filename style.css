@@ -40,6 +40,9 @@ li {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+    display: flex;
+    max-width: 500px;
+    flex-wrap: wrap;
 }
 
 .text-main {
@@ -58,6 +61,7 @@ button {
 
 .hero-main {
     display: flex;
+    padding: 80px;
 }
 
 .right-main {
