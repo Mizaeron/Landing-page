@@ -100,6 +100,14 @@ button {
     justify-content: center;
 }
 
+.info-boxes {
+    display: flex;
+}
+
+.box-container {
+    max-width: 180px;
+}
+
 .box {
     height: 120px;
     width: 120px;
