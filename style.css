@@ -88,14 +88,16 @@ button {
 
 .information {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    flex-wrap: wrap;
 }
 
 .info-header {
+    display: flex;
     font-size: 36px;
     font-weight: 800;
     color: #1F2937;
+    width: 100%;
+    justify-content: center;
 }
 
 .box {
