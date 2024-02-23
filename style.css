@@ -101,7 +101,9 @@ button {
 }
 
 .box {
-    height: 50px;
-    width: 50px;
+    height: 120px;
+    width: 120px;
     border: 3px solid #3882F6;
+    border-radius: 8px;
+    display: flex;
 }
