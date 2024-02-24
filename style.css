@@ -98,12 +98,14 @@ button {
     color: #1F2937;
     width: 100%;
     justify-content: center;
+    padding: 35px;
 }
 
 .info-boxes {
     display: flex;
     justify-content: center;
     flex-grow: 1;
+    margin-bottom: 100px;
 }
 
 .box-container {
