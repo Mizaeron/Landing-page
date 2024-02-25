@@ -134,13 +134,26 @@ button {
 
 .qoute {
     display: flex;
-    flex: 1;
     background-color: #E5E7EB;
-    padding: 70px;
+    justify-content: center;
+    align-items: center;
+    padding: 90px 0px;
+    
 }
 
 .qoute-box {
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
+    height: 250px;
+    width: 825px;
+}
+
+.sign-box {
+    margin-top: 15px;
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 24px;
 }
