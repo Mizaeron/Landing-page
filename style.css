@@ -179,3 +179,7 @@ button {
     font-weight: bold;
     font-size: 24px;
 }
+
+.call-button {
+    margin-left: 160px;
+}
